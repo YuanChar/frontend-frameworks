@@ -1,0 +1,30 @@
+{
+    "name": "frontend-frameworks",
+    "version": "1.0.0",
+    "description": "记录前端用到的框架，包括 Node、koa、vue",
+    "main": "index.js",
+    "scripts": {
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/YuanChar/frontend-frameworks.git"
+    },
+    "keywords": [
+      "nodejs",
+      "koa2",
+      "vue2",
+      "vue3",
+      "react",
+      "vuejs",
+      "JavaScript"
+    ],
+    "author": "Char, https://github.com/YuanChar",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/YuanChar/frontend-frameworksg/issues"
+    },
+    "homepage": "https://https://github.com/YuanChar/frontend-frameworks#readme",
+    "dependencies": {
+    }
+  }
+  
